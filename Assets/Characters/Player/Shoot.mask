@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shoot
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Hands
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Helmet
+    m_Weight: 1
+  - m_Path: root_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/l_leg_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/l_leg_joint/l_knee_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/l_leg_joint/l_knee_joint/l_foot_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/l_leg_joint/l_knee_joint/l_foot_joint/l_ball_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/l_leg_joint/l_knee_joint/l_foot_joint/l_ball_joint/l_toe_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/r_leg_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/r_leg_joint/r_knee_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/r_leg_joint/r_knee_joint/r_foot_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/r_leg_joint/r_knee_joint/r_foot_joint/r_ball_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/r_leg_joint/r_knee_joint/r_foot_joint/r_ball_joint/r_toe_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_finger_mix_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_finger_mix_joint_1/l_finger_mix_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_index_finger_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_index_finger_joint_1/l_index_finger_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_thumb_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/l_shoulder_joint/l_elbow_joint/l_wrist_joint/l_thumb_joint_1/l_thumb_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/neck_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/neck_joint/helmet_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/locator1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_finger_mix_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_finger_mix_joint_1/r_finger_mix_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_index_finger_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_index_finger_joint_1/r_index_finger_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_thumb_joint_1
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/r_shoulder_joint/r_elbow_joint/r_wrist_joint/r_thumb_joint_1/r_thumb_joint_2
+    m_Weight: 1
+  - m_Path: root_joint/pelvis_joint/spine_joint_1/spine_joint_2/spine_joint_3/zipper_joint
+    m_Weight: 1
+  - m_Path: Shoes
+    m_Weight: 1
+  - m_Path: Zipper
+    m_Weight: 1

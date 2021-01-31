@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c004bc891a236439789fd8d389f650, type: 3}
+  m_Name: lil slugger
+  m_EditorClassIdentifier: 
+  weaponName: LIL SLUGGER
+  weaponType: 0
+  bulletInfo: {fileID: 11400000, guid: b0073c3a42eb5d44cb471b6197eea44d, type: 2}
+  reloadTime: 0.5
+  knockbackForce: 1000
+  CameraRecoilForce: 2
+  CameraRecoilDuration: 0.1
+  bulletSpread: 20
+  ammoLostPerShot: 1
+  wallcheckDistance: 1
+  fireTimes: 1
+  timeBetweenFires: 0.05
+  firingAngle: 0
+  firingAmount: 1
+  arcTime: 1
+  arcHeight: 10
+  notesForDesigners: 'FUCK YOU AND YOUR  STUPID FACE!!!!!!
+
+
+    wtf.. bro..'

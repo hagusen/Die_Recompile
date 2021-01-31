@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c004bc891a236439789fd8d389f650, type: 3}
+  m_Name: SmallBrainWeapon 1
+  m_EditorClassIdentifier: 
+  weaponName: BigBrainWeapon
+  weaponType: 0
+  bulletInfo: {fileID: 11400000, guid: 52bbf4b0da31730498be8a5afa36081e, type: 2}
+  reloadTime: 1
+  knockbackForce: 500
+  CameraRecoilForce: 0
+  CameraRecoilDuration: 0
+  bulletSpread: 0
+  ammoLostPerShot: 0
+  wallcheckDistance: 0.5
+  fireTimes: 1
+  timeBetweenFires: 0.025
+  firingAngle: 0
+  firingAmount: 1
+  arcTime: 1
+  arcHeight: 10
+  notesForDesigners: 
